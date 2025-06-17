@@ -8,7 +8,7 @@ import lombok.Setter;
 import org.hibernate.annotations.ColumnDefault;
 
 import java.time.Instant;
-
+// Esto es un comentario para probar GitHub.
 @Getter
 @Setter
 @Entity
